@@ -33,6 +33,7 @@ class Datos:
             "Carlos":"Quinto",
             "Susana":"Horia"
         }
+        print(Nombreyapellidos)
         for x,y in Nombreyapellidos.items():
             print(x,y)                 
 # Creacion de objetos
