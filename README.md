@@ -2,10 +2,11 @@
 Usando Listas,Tuplas,Sets y diccionarios con Clases y POO
 ## Ejemplo de CLases y objetos con Listas,Tuplas,Sets y Diccionarios
 ## Codigo:
-- ![image](https://github.com/user-attachments/assets/61f55853-bb53-4fe0-a676-1342b4ce85ed)
-- ![image](https://github.com/user-attachments/assets/0a0024d0-7c81-44e8-8bac-2700682fda9e)
+- ![image](https://github.com/user-attachments/assets/d3c1ee59-1662-409e-8282-8fee202a68db)
+- ![image](https://github.com/user-attachments/assets/bd049aba-ba2c-4a2c-9160-8cf36ceed6e7)
 -
 ## Resultado:
-- ![image](https://github.com/user-attachments/assets/fc132015-5c01-407d-b2c3-50618773b5f3)
+- ![image](https://github.com/user-attachments/assets/eb45442d-019b-4906-9258-d49142876042)
+
 
 
